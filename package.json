@@ -1,0 +1,26 @@
+{
+  "name": "toolcool-range-slider-webpack-5",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "webpack",
+    "slider",
+    "range",
+    "range-slider",
+    "slider-range",
+    "range-picker",
+    "rangeslider"
+  ],
+  "author": "Tool Cool <toolcool.org@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "toolcool-range-slider": "^4.0.15"
+  }
+}
